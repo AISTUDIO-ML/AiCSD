@@ -1,5 +1,4 @@
 .idea/
-.vscode/
 *.exe
 *.pyc
 *jwtkey.txt
@@ -29,3 +28,7 @@ log-analytics/filebeat-win/*.md
 models/.ipynb_checkpoints
 models/.virtual_documents
 *checkpoint.py
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
